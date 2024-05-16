@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/MYnXfWrSWgoAAAAi/miku-hatsune-hatsune-miku.gif" width=50% />
 
 ## Sobre
-Atualmente estou perto de finalizar meu curso de Tecnologia em Sistemas para Internet na Universidade Tecnologica Federal do Paraná.****
+Atualmente estou perto de finalizar meu curso de Tecnologia em Sistemas para Internet na Universidade Tecnologica Federal do Paraná.
 - Tenho experiência como desenvolvedor web full stack.
 - Adquiri afinidade com o framework Laravel, e naturalmente com as seguintes linguagens e tecnologias: PHP, Html, CSS, Javascript e Bootstrap.
 - Estou sempre disponível para aprender novas tecnologias e linguagens.
