@@ -6,7 +6,11 @@ Atualmente estou perto de finalizar meu curso de Tecnologia em Sistemas para Int
 - Tenho experiência como desenvolvedor web full stack.
 - Adquiri afinidade com o framework Laravel, e naturalmente com as seguintes linguagens e tecnologias: PHP, Html, CSS, Javascript e Bootstrap.
 - Estou sempre disponível para aprender novas tecnologias e linguagens.
-- 
+
+![tankesho's Stats](https://github-readme-stats.vercel.app/api?username=tankesho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![tankesho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tankesho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+## Contatos
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-takeshi-ogassahara-gonzaga-279741269/)
 
 ## Linguagens e Tecnologias
 Aqui listarei algumas tecnologias e linguagens que conheço e já utilizei.
